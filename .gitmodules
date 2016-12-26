@@ -1,0 +1,4 @@
+[submodule "bkrn-blag/public"]
+	path = bkrn-blag/public
+	url = git@github.com:bkrn/bkrn.github.io.git
+	branch = master
